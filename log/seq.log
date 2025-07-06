@@ -1,0 +1,9 @@
+Size: 1000000 | Payload: 1 | Time: 0.0882
+Size: 1000000 | Payload: 24 | Time: 0.0873
+Size: 1000000 | Payload: 256 | Time: 0.0877
+Size: 10000000 | Payload: 1 | Time: 1.0450
+Size: 10000000 | Payload: 24 | Time: 1.0336
+Size: 10000000 | Payload: 256 | Time: 1.0424
+Size: 100000000 | Payload: 1 | Time: 11.8865
+Size: 100000000 | Payload: 24 | Time: 11.8979
+Size: 100000000 | Payload: 256 | Time: 11.9961
